@@ -1,0 +1,11 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_odoo58_odoo58_usuario,odoo58.odoo58.usuario,model_odoo58_odoo58,odoo58.group_odoo58_usuario,1,0,0,0
+access_odoo58_odoo58_administrador,odoo58.odoo58.administrador,model_odoo58_odoo58,odoo58.group_odoo58_administrador,1,1,1,1_
+
+access_odoo58_zapateria_usuario,odoo58.zapateria.usuario,model_odoo58_zapateria,odoo58.group_odoo58_usuario,1,0,0,0
+access_odoo58_zapateria_administrador,odoo58.zapateria.administrador,model_odoo58_zapateria,odoo58.group_odoo58_administrador,1,1,1,1_
+
+access_odoo58_liga_usuario,odoo58.liga.usuario,model_odoo58_liga,odoo58.group_odoo58_usuario,1,0,0,0
+access_odoo58_liga_administrador,odoo58.liga.administrador,model_odoo58_liga,odoo58.group_odoo58_administrador,1,1,1,1_
+
+
